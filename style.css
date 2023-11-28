@@ -1,1 +1,28 @@
-
+p {
+  Font-Family: Ariel;
+   Color : Blue;
+  }
+ul {
+  Font-Size: 12px;
+  Color: Red;
+}
+ol {
+  Font-Family: Sans;
+  Color: Pink;
+}
+h1 {
+  Font-Weight: Bold; 
+  Color: Black; 
+}
+header { text-align: center; 
+        color: orange; 
+       }
+body {
+  background-color: yellow;
+      color: blue; 
+     }
+footer {
+  font-weight: bold;
+  color: green;
+}
+        
